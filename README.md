@@ -52,8 +52,12 @@ Java (Servlets) • Python (Django) • C# • SQLite
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Red1eon&theme=tokyonight&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Red1eon&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Red1eon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Red1eon&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Red1eon&theme=tokyonight&hide_border=false&layout=compact)
 
 </div>
