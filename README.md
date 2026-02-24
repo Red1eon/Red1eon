@@ -72,18 +72,17 @@ A comprehensive web application featuring:
 
 ## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=Red1eon&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="GitHub Stats" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Red1eon&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Red1eon&theme=tokyonight&hide_border=false" alt="GitHub Streak" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Red1eon&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red1eon&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" alt="Top Languages" /&gt;
-&lt;/p&gt;
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red1eon&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" alt="Top Languages" />
+</p>
 ---
 
 ## 🎯 Current Focus
