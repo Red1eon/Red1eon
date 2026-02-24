@@ -1,11 +1,15 @@
-&lt;h1 align="center"&gt;Hi 👋, I'm Bishal Tamang&lt;/h1&gt;
-&lt;h3 align="center"&gt;IT Engineering Student | Full Stack Developer&lt;/h3&gt;
+<h1 align="center">Hi 👋, I'm Bishal Tamang</h1>
+<h3 align="center">IT Engineering Student | Full Stack Developer</h3>
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:tbishal132@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/&gt;&lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;&lt;/a&gt;
-  &lt;img src="https://img.shields.io/badge/Location-Japan%20%E2%86%92%20Nepal%20(April%202026)-green?style=for-the-badge"/&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="mailto:tbishal132@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Japan%20→%20Nepal%20(April%202026)-green?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -15,9 +19,6 @@
 - 💻 Passionate about **backend architecture** and **scalable web systems**
 - 🌏 **Based in Fukuoka, Japan** | **Available in Nepal from April 2026**
 - 📫 **Email:** tbishal132@gmail.com
-
----
-
 ## 🛠️ Tech Stack
 
 ### Primary Stack
