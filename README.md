@@ -56,12 +56,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Red1eon&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Red1eon&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Red1eon&layout=compact&theme=tokyonight&hide_border=false&langs_count=6)
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=Red1eon&layout=compact&theme=tokyonight&hide_border=false&langs_count=6
 ---
 
 ## 🎯 Current Focus
