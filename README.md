@@ -5,9 +5,6 @@
   <a href="mailto:tbishal132@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://github.com/Red1eon">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -18,8 +15,8 @@
 ## 🚀 About Me
 
 - 🎓 IT Engineering Student at Aiwa System Engineer College, Japan  
-- 💻 Focused on building scalable and maintainable web applications  
-- 🔍 Interested in backend architecture and clean code practices  
+- 💻 Full Stack Developer (Node.js & Express)  
+- 🔍 Interested in backend architecture and scalable systems  
 - 📫 Contact: **tbishal132@gmail.com**
 
 ---
@@ -27,32 +24,30 @@
 ## 🛠️ Tech Stack
 
 ### 🚀 Primary Stack
-JavaScript • Node.js • Express • MySQL • Bootstrap
+JavaScript • Node.js • Express • SQLite • Tailwind CSS
 
 ### 🔹 Additional Experience
-Java (Servlets) • Python (Django) • C# • SQLite
+MySQL • Java • Python • C# • REST APIs
 
 ---
 
 ## 📌 Featured Project
 
-### 🎓 Student Management System
-**Tech Stack:** Java Servlets • MySQL • Bootstrap
+### 🎓 School Management System  
+**Tech Stack:** Node.js • Express • SQLite • Tailwind CSS  
 
-- Secure authentication system  
+- Multi-role authentication system  
 - Role-based access control  
-- Full CRUD functionality  
-- Responsive admin dashboard  
+- Attendance, exams, fee, and library modules  
+- Multi-language support (English/Japanese)  
 
-[View Repository](https://github.com/Red1eon/YOUR_REAL_REPO_NAME)
+👉 [View Repository](https://github.com/Red1eon/student-management-system)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Red1eon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
