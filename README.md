@@ -19,6 +19,9 @@
 - 💻 Passionate about **backend architecture** and **scalable web systems**
 - 🌏 **Based in Fukuoka, Japan** | **Available in Nepal from April 2026**
 - 📫 **Email:** tbishal132@gmail.com
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Primary Stack
