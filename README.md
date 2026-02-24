@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Redeon">
+  <a href="https://github.com/Red1eon">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -39,12 +39,12 @@ Java (Servlets) • Python (Django) • C# • SQLite
 ### 🎓 Student Management System
 **Tech Stack:** Java Servlets • MySQL • Bootstrap
 
-- Secure authentication system
-- Role-based access control
-- Full CRUD functionality
-- Responsive admin dashboard
+- Secure authentication system  
+- Role-based access control  
+- Full CRUD functionality  
+- Responsive admin dashboard  
 
-[View Repository](https://github.com/Redeon/PROJECT_LINK)
+[View Repository](https://github.com/Red1eon/YOUR_REAL_REPO_NAME)
 
 ---
 
