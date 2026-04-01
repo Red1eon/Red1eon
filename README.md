@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Japan%20→%20Nepal%20(April%202026)-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Japan%20→%20Nepal%20()-green?style=for-the-badge"/>
 </p>
 
 ---
